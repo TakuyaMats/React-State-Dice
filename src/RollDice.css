@@ -1,0 +1,10 @@
+.RollDice {
+    display: flex;
+    justify-content: center;
+    margin: 55px;
+}
+
+.RollDice-Btn {
+    display: flex;
+    justify-content: center;
+}
