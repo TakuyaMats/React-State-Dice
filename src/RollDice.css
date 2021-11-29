@@ -8,3 +8,11 @@
     display: flex;
     justify-content: center;
 }
+
+.RollDice-Btn-Primary {
+    width: 15rem;
+    padding: 1.5em;
+    border: 0px;
+    border-radius: 10px;
+    margin-top: 3rem;
+}
